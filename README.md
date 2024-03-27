@@ -18,3 +18,6 @@ Redirect Short URL:
 
 Redirects to the original long URL when a valid short URL is accessed.
 Updates the access count in the database.
+
+<img width="245" alt="image" src="https://github.com/AshStark473/URL-shortener/assets/108432858/0a29754f-44fc-4d03-a19d-c9428d62862c">
+
